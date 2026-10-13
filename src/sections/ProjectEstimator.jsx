@@ -67,6 +67,7 @@ const stackCategories = [
     items: [
       { id: "fe_react", label: "React.js (SPA / Vite Component Architecture)", days: 0 },
       { id: "fe_tailwind", label: "Tailwind CSS & Modern Responsive Design", days: 1 },
+      { id: "fe_bootstrap", label: "Bootstrap 5 & Rapid Responsive Grid UI", days: 1 },
       { id: "fe_charts", label: "Interactive Analytics & Data Visualizations", days: 2 },
     ],
   },
@@ -76,6 +77,8 @@ const stackCategories = [
     icon: Server,
     items: [
       { id: "be_node", label: "Node.js & Express.js REST API Architecture", days: 0 },
+      { id: "be_python_flask", label: "Python (Flask) Backend & Microservices", days: 2 },
+      { id: "be_java", label: "Java Backend Services & OOP Logic", days: 2 },
       { id: "auth_clerk", label: "Clerk Multi-Session Auth & User Profiles", days: 2 },
       { id: "auth_jwt", label: "JWT + bcrypt Role-Based Authorization (RBAC)", days: 2 },
       { id: "be_val", label: "Secure Input Validation & Error Handling", days: 1 },
@@ -88,6 +91,7 @@ const stackCategories = [
     items: [
       { id: "db_postgres", label: "PostgreSQL (Neon Relational SQL Database)", days: 2 },
       { id: "db_mongo", label: "MongoDB (Mongoose NoSQL Document Store)", days: 2 },
+      { id: "db_mysql", label: "MySQL Relational Database & Indexing", days: 2 },
       { id: "media_cdn", label: "Cloudinary Media CDN & Asset Uploads", days: 2 },
     ],
   },

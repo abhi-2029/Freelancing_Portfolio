@@ -44,9 +44,10 @@ export function About() {
   const coreFoundations = [
     "Data Structures & Algorithms",
     "Database Management Systems (DBMS)",
-    "Object-Oriented Programming (OOP)",
+    "Object-Oriented Programming (Java / C++)",
     "Operating Systems & Networking",
     "System Design & RESTful APIs",
+    "Python & Scripting Automation",
   ];
 
   const certifications = [
@@ -73,13 +74,13 @@ export function About() {
               {/* Narrative Paragraphs */}
               <div className="space-y-4 text-text-secondary leading-relaxed text-[0.95rem]">
                 <p>
-                  I'm a <strong className="text-text-primary">Full-Stack Software Engineer</strong> with a formal background in Computer Science & Engineering from Lovely Professional University. I specialize in building complete, production-ready web applications using modern web technologies—including <strong className="text-text-primary">React, Node.js, Express, PostgreSQL, MongoDB, and Docker</strong>.
+                  I'm a <strong className="text-text-primary">Full-Stack Software Engineer</strong> with a formal background in Computer Science & Engineering from Lovely Professional University. I specialize in building complete, production-ready web applications using modern web technologies—including <strong className="text-text-primary">React, Node.js, Express, Python (Flask), Java, PostgreSQL, MongoDB, MySQL, Tailwind CSS, Bootstrap, and Docker</strong>.
                 </p>
                 <p>
-                  My engineering journey is defined by end-to-end execution. I've engineered multi-tenant SaaS platforms integrating multi-provider AI APIs with Clerk authentication, as well as complex healthcare management systems featuring role-based authorization (Doctor/Patient/Admin) and indexed databases. Every application I deliver follows clean architecture patterns, secure authentication, and robust REST APIs.
+                  My engineering journey is defined by end-to-end execution. I've engineered multi-tenant SaaS platforms integrating multi-provider AI APIs with Clerk authentication, as well as complex healthcare management systems featuring role-based authorization (Doctor/Patient/Admin) and indexed databases. Whether implementing high-concurrency Node.js endpoints or lightweight Python/Flask microservices, every application I deliver follows clean architecture patterns, secure authentication, and robust REST APIs.
                 </p>
                 <p>
-                  Beyond frameworks, I have a deep algorithmic foundation with <strong className="text-text-primary">450+ solved LeetCode problems</strong> across 200+ active practice days. This foundation allows me to write code that isn't just functional, but optimized for speed, low latency, and efficient database indexing.
+                  Beyond frameworks, I have a deep algorithmic foundation with <strong className="text-text-primary">450+ solved LeetCode problems</strong> across 200+ active practice days, paired with 5-star HackerRank ratings in C++ and SQL and strong OOP mastery in Java. This foundation allows me to write code that isn't just functional, but optimized for speed, low latency, and efficient database indexing.
                 </p>
               </div>
 

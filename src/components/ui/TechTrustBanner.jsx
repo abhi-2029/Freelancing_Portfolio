@@ -2,17 +2,17 @@ import { cn } from "../../utils/cn";
 
 const technologies = [
   { name: "React 19", role: "Frontend UI" },
-  { name: "Node.js", role: "Runtime" },
-  { name: "Express.js", role: "REST API" },
+  { name: "Node.js & Express", role: "REST Backend" },
+  { name: "Python & Flask", role: "Backend Services" },
+  { name: "Java", role: "Enterprise OOP" },
   { name: "PostgreSQL", role: "Relational DB" },
-  { name: "Neon", role: "Serverless Postgres" },
   { name: "MongoDB", role: "Document DB" },
+  { name: "MySQL", role: "Relational DB" },
   { name: "Docker", role: "Containerization" },
-  { name: "Clerk", role: "Authentication" },
-  { name: "Tailwind CSS", role: "Styling" },
+  { name: "Tailwind & Bootstrap", role: "Responsive UI" },
+  { name: "Clerk & JWT", role: "Authentication" },
   { name: "Groq & Llama", role: "AI Inference" },
-  { name: "Cloudinary", role: "Media CDN" },
-  { name: "JWT & bcrypt", role: "Security" },
+  { name: "Git & Linux", role: "DevOps & Tools" },
 ];
 
 export function TechTrustBanner() {

@@ -78,11 +78,15 @@ export function Hero() {
                 "React",
                 "Node.js",
                 "Express",
+                "Python (Flask)",
+                "Java",
                 "PostgreSQL",
                 "MongoDB",
+                "MySQL",
                 "Docker",
+                "Tailwind CSS",
+                "Bootstrap",
                 "REST APIs",
-                "Clerk Auth",
               ].map((tech) => (
                 <span
                   key={tech}

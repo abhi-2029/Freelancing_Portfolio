@@ -9,16 +9,16 @@ export const personal = {
 
   headline: "I design, build, and ship modern web applications.",
   subheadline:
-    "Full-stack developer specializing in React, Node.js, and REST APIs — from database architecture to deployment.",
+    "Full-stack software engineer proficient in React, Node.js, Python (Flask), Java, and REST APIs — from database architecture to production deployment.",
 
   heroDescription:
-    "I build complete web applications for startups, small businesses, and entrepreneurs. Whether it's a SaaS platform, business dashboard, or an AI-powered application — I handle the frontend, backend, database, and everything in between.",
+    "I build complete web applications for startups, small businesses, and entrepreneurs. Whether it's a SaaS platform, Python/Flask backend, business dashboard, or an AI-powered portal — I handle frontend (React, Tailwind, Bootstrap), backend, database, and containerized deployment end-to-end.",
 
-  bio: `I'm a Full-Stack Developer with a B.Tech in Computer Science from Lovely Professional University. I specialize in building production-ready web applications using React, Node.js, Express, and both SQL and NoSQL databases.
+  bio: `I'm a Full-Stack Software Engineer with a B.Tech in Computer Science from Lovely Professional University. I specialize in building production-ready web applications using React, Node.js, Express, Python (Flask), Java, and both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
 
-I've built healthcare management systems with role-based authentication, AI SaaS platforms integrating multiple third-party APIs, and containerized multi-service applications with Docker. Every project I take on goes through proper architecture planning, secure authentication, and clean API design.
+I've built healthcare management systems with role-based authentication, AI SaaS platforms integrating multiple third-party APIs, and containerized multi-service applications with Docker. Every project I take on goes through proper architecture planning, secure authentication, clean API design, and responsive UI crafting with Tailwind CSS and Bootstrap.
 
-Beyond building applications, I've solved 450+ algorithmic problems on LeetCode with 200+ active days of consistent practice — which means I approach code with strong problem-solving fundamentals, not just framework knowledge.`,
+Beyond building applications, I've solved 450+ algorithmic problems on LeetCode with 200+ active days of consistent practice and hold 5-star HackerRank ratings — which means I approach code with strong problem-solving fundamentals, not just framework knowledge.`,
 
   education: {
     degree: "B.Tech in Computer Science and Engineering",

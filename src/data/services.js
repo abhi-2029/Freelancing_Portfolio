@@ -6,7 +6,7 @@ export const services = [
     title: "Full-Stack Web Development",
     description:
       "End-to-end web applications with modern, responsive frontends and robust backend systems. From user interfaces to server logic to database — delivered as a complete, working product.",
-    technologies: ["React", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+    technologies: ["React", "Node.js", "Python (Flask)", "Express", "PostgreSQL", "MongoDB"],
     deliverables:
       "Production-ready codebase, clean Git history, environment configuration, responsive UI, REST API, and deployment setup.",
     icon: Layers,
@@ -16,7 +16,7 @@ export const services = [
     title: "Backend & API Development",
     description:
       "Scalable REST APIs with secure authentication, role-based authorization, and well-structured database integration. Built to be consumed by web apps, mobile apps, or third-party services.",
-    technologies: ["Node.js", "Express", "JWT", "REST APIs", "bcrypt"],
+    technologies: ["Node.js", "Express", "Python (Flask)", "Java", "JWT", "REST APIs"],
     deliverables:
       "Documented REST endpoints, JWT authentication & role middleware, input validation, error handling, and API documentation.",
     icon: Server,
@@ -26,7 +26,7 @@ export const services = [
     title: "SaaS & Business Applications",
     description:
       "Multi-user platforms with user management, dashboards, role-based access, credit systems, and workflow automation — the kind of applications that power real businesses.",
-    technologies: ["React", "PostgreSQL", "Clerk", "Docker"],
+    technologies: ["React", "PostgreSQL", "Tailwind / Bootstrap", "Clerk", "Docker"],
     deliverables:
       "Multi-tenant schemas, Clerk/JWT user management, credit/usage tracking, Dockerized environment, and analytics dashboard.",
     icon: LayoutDashboard,
