@@ -58,12 +58,12 @@ Showcases real, verifiable production applications:
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend** | React 19, JavaScript (ESNext), Tailwind CSS v4, Framer Motion, Lucide Icons |
-| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, Clerk Auth SDK, JWT, bcrypt |
+| **Frontend** | React 19, Tailwind CSS v4, Bootstrap 5, JavaScript (ES6+), Framer Motion, Lucide Icons |
+| **Backend & APIs** | Node.js, Express.js, Spring Boot (Java), Python (Flask), RESTful APIs, JWT Auth, Clerk SDK |
 | **Databases** | PostgreSQL (Neon Serverless), MongoDB (Mongoose), MySQL, Database Indexing |
-| **DevOps & Cloud** | Docker, Docker Compose, Git, Vercel, Railway, Cloudinary Media CDN |
-| **AI Integrations** | Groq Llama 3.1, OpenRouter Mistral 7B, Clipdrop API Pipelines |
-| **Problem Solving** | 450+ LeetCode Solved, 200+ Active Days, 5★ HackerRank (C++ & SQL) |
+| **DevOps & Cloud** | Docker, Docker Compose, Linux CLI, Git & GitHub, Vercel, Railway, Cloudinary Media CDN |
+| **AI Integrations** | Groq Llama 3.1, OpenRouter APIs, Clipdrop Pipelines |
+| **Problem Solving** | 450+ LeetCode Solved, 200+ Active Days, 5★ HackerRank (C++ & SQL), GfG 160 Days |
 
 ---
 
@@ -156,6 +156,24 @@ If you wish to receive form submissions via Formspree, create a form at [formspr
 VITE_FORMSPREE_ID=your_formspree_id_here
 ```
 *(Note: If left unconfigured, the contact form automatically provides a direct 1-click email client fallback).*
+
+---
+
+## 👨‍💻 About the Engineer
+
+* **Name**: Abhishek Ranjan
+* **Education**: B.Tech in Computer Science & Engineering, Lovely Professional University (CGPA 7.3)
+* **Core Philosophy**: Delivering production-ready, clean, and maintainable software with direct engineer accountability — bridging strong computer science fundamentals, full-stack architecture, and disciplined problem solving.
+* **Problem-Solving Metrics**:
+  * **450+ Problems Solved** across LeetCode (Arrays, Trees, Graphs, Dynamic Programming)
+  * **200+ Active Practice Days**
+  * **5-Star Rated** on HackerRank in C++ and SQL
+  * **Certified**: GeeksforGeeks 160 Days of Problem Solving, Data Structures & Algorithms, Programming in C++ Hands-on
+* **Multi-Stack Delivery**:
+  * **JavaScript/Node**: React 19, Node.js, Express, Next-ready RESTful APIs
+  * **Java & Spring**: Enterprise microservices, OOP design patterns, JPA/Hibernate
+  * **Python & Flask**: Lightweight API microservices, scripting & automation
+  * **Databases & DevOps**: PostgreSQL, MongoDB, MySQL, Docker, Docker Compose, Linux
 
 ---
 
