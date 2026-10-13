@@ -11,7 +11,7 @@
 
 <br />
 
-[Live Demo](https://github.com/abhi-2029/Freelancing_Portfolio) · [View Case Studies](#-featured-case-studies) · [Collaboration Models](#-collaboration-models) · [Scope Calculator](#-scope--tech-stack-estimator) · [Contact](#-direct-contact--inquiries)
+[🌐 Live Website](https://freelancing-portfolio-wheat.vercel.app) · [View Case Studies](#-featured-case-studies) · [Collaboration Models](#-collaboration-models) · [Scope Calculator](#-scope--tech-stack-estimator) · [Contact](#-direct-contact--inquiries)
 
 </div>
 
