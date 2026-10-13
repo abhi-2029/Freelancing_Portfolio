@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { useTheme } from "./hooks/useTheme";
 import { Navbar } from "./components/layout/Navbar";
 import { Footer } from "./components/layout/Footer";
@@ -17,6 +18,31 @@ import { Contact } from "./sections/Contact";
 
 function App() {
   const { theme, toggleTheme } = useTheme();
+
+  useEffect(() => {
+    // 1. Force manual scroll restoration so browsers do not remember previous scroll
+    if ("scrollRestoration" in window.history) {
+      window.history.scrollRestoration = "manual";
+    }
+
+    // 2. Clear any section hash on reload/refresh so page always returns to Home
+    if (window.location.hash) {
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+
+    // 3. Jump to top immediately
+    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+
+    // 4. Ensure scroll position is reset before page unloads
+    const handleBeforeUnload = () => {
+      window.scrollTo(0, 0);
+    };
+
+    window.addEventListener("beforeunload", handleBeforeUnload);
+    return () => {
+      window.removeEventListener("beforeunload", handleBeforeUnload);
+    };
+  }, []);
 
   return (
     <div className="min-h-screen bg-bg text-text-primary">

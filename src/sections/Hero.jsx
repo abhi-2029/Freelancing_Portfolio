@@ -30,7 +30,7 @@ export function Hero() {
 
   return (
     <section
-      id="hero"
+      id="home"
       className="relative min-h-[92vh] flex flex-col justify-between pt-24 pb-0 overflow-hidden"
     >
       {/* Ambient Radial Mesh Glow */}

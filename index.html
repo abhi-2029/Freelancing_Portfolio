@@ -45,6 +45,14 @@
       rel="stylesheet"
     />
 
+    <!-- Force reload/refresh to start at top / home -->
+    <script>
+      if ('scrollRestoration' in history) {
+        history.scrollRestoration = 'manual';
+      }
+      window.scrollTo(0, 0);
+    </script>
+
     <!-- Theme color -->
     <meta name="theme-color" content="#0a0a0a" />
   </head>
