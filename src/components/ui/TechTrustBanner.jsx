@@ -4,7 +4,7 @@ const technologies = [
   { name: "React 19", role: "Frontend UI" },
   { name: "Node.js & Express", role: "REST Backend" },
   { name: "Python & Flask", role: "Backend Services" },
-  { name: "Java", role: "Enterprise OOP" },
+  { name: "Spring Boot & Java", role: "Enterprise Backend" },
   { name: "PostgreSQL", role: "Relational DB" },
   { name: "MongoDB", role: "Document DB" },
   { name: "MySQL", role: "Relational DB" },

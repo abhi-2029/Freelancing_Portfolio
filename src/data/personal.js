@@ -9,12 +9,12 @@ export const personal = {
 
   headline: "I design, build, and ship modern web applications.",
   subheadline:
-    "Full-stack software engineer proficient in React, Node.js, Python (Flask), Java, and REST APIs — from database architecture to production deployment.",
+    "Full-stack software engineer proficient in React, Node.js, Spring Boot (Java), Python (Flask), and REST APIs — from database architecture to production deployment.",
 
   heroDescription:
-    "I build complete web applications for startups, small businesses, and entrepreneurs. Whether it's a SaaS platform, Python/Flask backend, business dashboard, or an AI-powered portal — I handle frontend (React, Tailwind, Bootstrap), backend, database, and containerized deployment end-to-end.",
+    "I build complete web applications for startups, small businesses, and entrepreneurs. Whether it's a SaaS platform, a Spring Boot or Python/Flask backend, a business dashboard, or an AI-powered portal — I handle frontend (React, Tailwind, Bootstrap), backend, database, and containerized deployment end-to-end.",
 
-  bio: `I'm a Full-Stack Software Engineer with a B.Tech in Computer Science from Lovely Professional University. I specialize in building production-ready web applications using React, Node.js, Express, Python (Flask), Java, and both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
+  bio: `I'm a Full-Stack Software Engineer with a B.Tech in Computer Science from Lovely Professional University. I specialize in building production-ready web applications using React, Node.js, Express, Spring Boot (Java), Python (Flask), and both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
 
 I've built healthcare management systems with role-based authentication, AI SaaS platforms integrating multiple third-party APIs, and containerized multi-service applications with Docker. Every project I take on goes through proper architecture planning, secure authentication, clean API design, and responsive UI crafting with Tailwind CSS and Bootstrap.
 

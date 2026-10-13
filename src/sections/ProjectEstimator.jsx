@@ -78,7 +78,7 @@ const stackCategories = [
     items: [
       { id: "be_node", label: "Node.js & Express.js REST API Architecture", days: 0 },
       { id: "be_python_flask", label: "Python (Flask) Backend & Microservices", days: 2 },
-      { id: "be_java", label: "Java Backend Services & OOP Logic", days: 2 },
+      { id: "be_java", label: "Spring Boot (Java) Enterprise Microservices & APIs", days: 2 },
       { id: "auth_clerk", label: "Clerk Multi-Session Auth & User Profiles", days: 2 },
       { id: "auth_jwt", label: "JWT + bcrypt Role-Based Authorization (RBAC)", days: 2 },
       { id: "be_val", label: "Secure Input Validation & Error Handling", days: 1 },

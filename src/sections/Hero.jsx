@@ -78,6 +78,7 @@ export function Hero() {
                 "React",
                 "Node.js",
                 "Express",
+                "Spring Boot",
                 "Python (Flask)",
                 "Java",
                 "PostgreSQL",

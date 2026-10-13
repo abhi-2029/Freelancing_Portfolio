@@ -16,7 +16,7 @@ export const services = [
     title: "Backend & API Development",
     description:
       "Scalable REST APIs with secure authentication, role-based authorization, and well-structured database integration. Built to be consumed by web apps, mobile apps, or third-party services.",
-    technologies: ["Node.js", "Express", "Python (Flask)", "Java", "JWT", "REST APIs"],
+    technologies: ["Node.js / Express", "Spring Boot (Java)", "Python (Flask)", "REST APIs", "JWT Auth"],
     deliverables:
       "Documented REST endpoints, JWT authentication & role middleware, input validation, error handling, and API documentation.",
     icon: Server,

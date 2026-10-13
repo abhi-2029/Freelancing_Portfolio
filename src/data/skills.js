@@ -9,12 +9,12 @@ export const skillCategories = [
     skills: [
       "Node.js",
       "Express.js",
+      "Spring Boot (Java)",
       "Python (Flask)",
-      "Java Backend Services",
-      "RESTful APIs",
+      "RESTful APIs & Microservices",
       "JWT Authentication",
     ],
-    note: "Scalable backend architectures, API routing, and middleware security",
+    note: "Scalable enterprise architectures, Spring Boot services, and API security",
   },
   {
     title: "Frontend & Styling",
@@ -53,13 +53,13 @@ export const skillCategories = [
   {
     title: "Developer Tools & IDEs",
     skills: [
+      "IntelliJ IDEA (Java / Spring)",
       "VS Code",
-      "IntelliJ IDEA (Java)",
       "PyCharm (Python)",
       "Postman API Testing",
-      "npm / pip",
+      "Maven / npm / pip",
     ],
-    note: "Proficient across JavaScript, Python, and Java developer ecosystems",
+    note: "Proficient across Java (Spring Boot), JavaScript, and Python engineering workflows",
   },
   {
     title: "Core Computer Science",
