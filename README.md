@@ -59,7 +59,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhi-2029/Freelancing_portfolio.git
+git clone https://github.com/abhi-2029/Freelancing_Portfolio.git
 
 # Navigate into the project directory
 cd Freelancing_portfolio
