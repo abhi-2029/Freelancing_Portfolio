@@ -1,0 +1,56 @@
+import { Rocket, Puzzle, RefreshCw } from "lucide-react";
+
+export const engagementModels = [
+  {
+    id: "mvp-sprint",
+    name: "Full MVP Development Sprint",
+    tagline: "From concept to production-ready web application in 2–4 weeks.",
+    idealFor: "Startup founders, entrepreneurs, and businesses launching a new product.",
+    timeline: "2 – 4 Weeks",
+    model: "Fixed-Price Milestone Contract",
+    icon: Rocket,
+    deliverables: [
+      "Full frontend & backend development (React + Node.js/Express)",
+      "Database architecture & schema design (PostgreSQL or MongoDB)",
+      "Authentication & role authorization (Clerk or JWT + bcrypt)",
+      "Third-party API integrations (AI services, media pipelines, etc.)",
+      "Dockerized setup & production cloud deployment",
+      "100% code ownership & 14-day post-launch warranty",
+    ],
+    popular: true,
+  },
+  {
+    id: "feature-integration",
+    name: "Feature & API Integration",
+    tagline: "Add powerful modules, AI integrations, or custom backend APIs to your existing app.",
+    idealFor: "Growing businesses & agencies with existing products needing new capabilities.",
+    timeline: "1 – 2 Weeks",
+    model: "Fixed-Price or Scoped Sprint",
+    icon: Puzzle,
+    deliverables: [
+      "Third-party AI API integrations (Groq, OpenRouter, Clipdrop, etc.)",
+      "Secure REST API endpoints with validation & error handling",
+      "Database schema extensions, migrations, and query indexing",
+      "Modern authentication migration (e.g. Clerk or JWT)",
+      "Clean, modular code that integrates seamlessly with your existing stack",
+    ],
+    popular: false,
+  },
+  {
+    id: "dedicated-retainer",
+    name: "Dedicated Engineering Retainer",
+    tagline: "Dedicated weekly full-stack capacity for continuous feature velocity.",
+    idealFor: "Startups and teams needing reliable full-stack execution without full-time hiring overhead.",
+    timeline: "Monthly Ongoing",
+    model: "Flexible Weekly Retainer",
+    icon: RefreshCw,
+    deliverables: [
+      "Consistent 10–20 hours/week dedicated to your roadmap",
+      "Continuous feature shipping, bug fixing, and code reviews",
+      "Database optimization, indexing, and performance tuning",
+      "Priority response time via Slack, WhatsApp, or email",
+      "Flexible month-to-month agreement with transparent reporting",
+    ],
+    popular: false,
+  },
+];
